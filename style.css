@@ -1,3 +1,7 @@
+/*
+Project Name: Isabel Nichols Music (HW16)
+Author: Isabel Nichols
+Date Last Modified: April 4, 2019*/
 body{
     color:#FFFFFF;
     background-image:url(images/dark-paths.png);
@@ -54,4 +58,7 @@ footer{
 }
 #header{
     background-image: url(images/IsabelHeader.gif)
+}
+a{
+    color:white;
 }
