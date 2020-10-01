@@ -1,0 +1,64 @@
+/*
+Project Name: Isabel Nichols Music (HW16)
+Author: Isabel Nichols
+Date Last Modified: April 4, 2019*/
+body{
+    color:#FFFFFF;
+    background-image:url(dark-paths.png);
+}
+#header{
+   display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+    text-align: center
+
+}
+#logo{
+    display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+    height: 124px;
+    text-align: center
+}
+ 
+#images{
+    text-align:center;
+}
+
+h1{
+  text-align:center;
+  background-color:#2CD4E5;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+h2{
+   text-align:left;
+}
+nav{
+    text-align: center;
+    font-weight:bold;
+    font-size:1.5em;
+    padding-top: 5px;
+    color:#FFFFFF;
+    background-color:#06B5FF;
+}
+nav a{
+    text-decoration:none;
+}
+footer{
+    color:#FFFFFF;
+    text-align: center;
+    background-color: #06B5FF;
+    
+}
+.darkpaths{
+    background-image:url(dark-paths.png);
+}
+#header{
+    background-image: url(IsabelHeader.gif)
+}
+a{
+    color:white;
+}
